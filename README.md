@@ -54,6 +54,7 @@ CyberShield is a comprehensive Security Operations Center (SOC) dashboard design
    npm run dev
    ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Deployment Link:
+
+https://cybershield-ivory.vercel.app/login
 
