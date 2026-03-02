@@ -4,7 +4,9 @@
 CyberShield is a comprehensive Security Operations Center (SOC) dashboard designed to visualize and manage real-time security threats.
 
 ## Demo Video
-[![Watch the video]](https://github.com/PriyadharshiniRVP/CyberThreatVisualizationDashboard/blob/main/demo_video.mp4)
+[![Watch the video](https://github.com/PriyadharshiniRVP/CyberThreatVisualizationDashboard/blob/main/thumbnail.png)](https://github.com/PriyadharshiniRVP/CyberThreatVisualizationDashboard/blob/main/demo_video.mp4)
+
+
 
 ## Features
 - Real-time Threat Monitoring
